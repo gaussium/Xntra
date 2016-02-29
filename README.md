@@ -1,2 +1,2 @@
-# gaussium-platform test
+# gaussium-platform
 Gaussium BA Server Core http://www.gaussium.com
