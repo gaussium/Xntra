@@ -1,2 +1,2 @@
-# gaussium-platform
-Gaussium BA Server Core http://www.gaussium.com
+# xntra-platform
+Xntra BA Server Core http://www.gaussium.com
